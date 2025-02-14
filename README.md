@@ -30,7 +30,7 @@ Você pode resolver os exercícios compilando o JavaScript com o Node de forma l
     
     - Exemplo de entrada array = [10, 20, 30, 40, 60], saída esperada: “O array possui 1 número maior que 50ˮ.
 
-## 4.   Somando Valores com um Loop for
+## 4. Somando Valores com um Loop for
 
     - Crie um array com vários números inteiros.
 
