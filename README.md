@@ -6,7 +6,7 @@ Você pode resolver os exercícios compilando o JavaScript com o Node de forma l
 
     - Crie dois arrays, um com nomes de cidades brasileiras e outro com nomes de cidades estrangeiras.
 
-    - Utilize o método concatLinks to an external site. para unir esses dois arrays em um único.
+    - Utilize o método concat para unir esses dois arrays em um único.
 
     - Exiba o array resultante no console.
 
@@ -14,7 +14,7 @@ Você pode resolver os exercícios compilando o JavaScript com o Node de forma l
 
     - Crie um array com 6 nomes de animais.
 
-    - Use o método spliceLinks to an external site. para remover 2 animais a partir da terceira posição e substituí-los por outros 2 animais diferentes.
+    - Use o método splice para remover 2 animais a partir da terceira posição e substituí-los por outros 2 animais diferentes.
 
     - Exiba o array resultante no console.
    
@@ -30,22 +30,23 @@ Você pode resolver os exercícios compilando o JavaScript com o Node de forma l
     
     - Exemplo de entrada array = [10, 20, 30, 40, 60], saída esperada: “O array possui 1 número maior que 50ˮ.
 
-## 4.   Somando Valores com um Loop forLinks to an external site
+## 4.   Somando Valores com um Loop for
 
     - Crie um array com vários números inteiros.
 
-    - Use um loop forLinks to an external site. para somar todos os números do array.
+    - Use um loop for para somar todos os números do array.
 
     - Exiba o resultado da soma no console.
 
     - Exemplo de entrada array = [5, 5, 10], saída esperada: 20.
 
-## 5. Somando Valores com um Loop  whileLinks to an external site
+## 5. Somando Valores com um Loop  while
 
     - Crie um array com vários números inteiros.
     
-    - Use um loop while Links to an external site.para somar todos os números do 
+    - Use um loop while para somar todos os números do 
     array.
+    
     - Exiba o resultado da soma no console.
     
     - Exemplo de entrada array = [5, 5, 10], saída esperada: 20.
